@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 icecream
 cake
 chips
 chocolates
+=======
+Amadeus
+Fifth elemeny
+captain fantastic
+>>>>>>> movies
